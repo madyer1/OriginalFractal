@@ -8,7 +8,7 @@ public void draw(){
 }
 public void square(int x, int y, int len){
 	rect(x-(len/2),y-(len/2),len,len);
-	if(len<=25){
+	if(len<=15){
 		
 	}
 	else{
